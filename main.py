@@ -1,6 +1,8 @@
 import pygame
 pygame.init()
-
+"""
+This code displays a windows and allows you to play ping pong
+"""
 
 WIDTH, HEIGHT = 700, 500
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
